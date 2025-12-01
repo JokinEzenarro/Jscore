@@ -33,7 +33,7 @@ Important: plsregress conflicts with the version included in PLS_Toolbox. Ensure
 Citation
 --------
 If you use this code, must cite:
-Ezenarro, J. (2023). A robust diagnostic for selecting latent variables in PLS regression. Chemometrics and Intelligent Laboratory Systems, 104883.
+Ezenarro et al. (2023). A robust diagnostic for selecting latent variables in PLS regression. Chemometrics and Intelligent Laboratory Systems, 104883.
 doi.org/10.1016/j.chemolab.2023.104883
 
 License
